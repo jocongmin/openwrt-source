@@ -1,5 +1,5 @@
 
-name: 编译openwrt1.0
+name: 编译openwrt1.1
 
 on:
   push:
